@@ -28,4 +28,4 @@ def main(temp):
         s="very hot"
     return s
 print(main(21)) 
-    
+     
